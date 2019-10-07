@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my homepage [AL]"
+title                    : "Welcome to my \n personal portfolio"
 title_separator          : "-"
 name                     : &name "Alberto Gil Jimenez"
 description              : &description "PhD in computational biology"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alberto Gil Jimenez"
-  avatar           : "download.png"
+  avatar           : "download_2.png"
   bio              : "passionate bioinformatician"
   location         : "Amsterdam, The Netherlands"
   employer         :
