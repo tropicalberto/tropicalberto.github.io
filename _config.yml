@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alberto Gil Jimenez"
   avatar           : "download_2.png"
-  bio              : "passionate bioinformatician"
+  bio              : "PhD student at the Netherlands Cancer Institute (NKI). \n Research interests: Bioinformatics, Bladder Cancer, Computational Biology, Immunology. \n Bioinformatician, Physicist, Chemist |"
   location         : "Amsterdam, The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tropicalberto"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_alberto_gil"
   vine             :
   weibo            :
   xing             :
