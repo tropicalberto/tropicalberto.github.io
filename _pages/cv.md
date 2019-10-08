@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in **Bioinformatics and Systems Biology**, *University of Amsterdam* and *Vrije Universiteit Amsterdam*, 2018
+* B.Sc. in Physics, *Autonomous University of Barcelona*, 2016
+* B.Sc. in Chemistry, *Autonomous University of Barcelona*, 2016
 
 Work experience
 ======
@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python (v2 & v3)
+* R
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Bash
 
 Publications
 ======
