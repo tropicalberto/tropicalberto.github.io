@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* PhD in **Bioinformatics**, *Netherlands cancer institute* and *Vrije Universiteit Amsterdam*, 2018
+  * OOA 
+  * Delft University
 * M.Sc. in **Bioinformatics and Systems Biology**, *University of Amsterdam* and *Vrije Universiteit Amsterdam*, 2018
 * B.Sc. in **Physics**, *Autonomous University of Barcelona*, 2016
 * B.Sc. in **Chemistry**, *Autonomous University of Barcelona*, 2016
